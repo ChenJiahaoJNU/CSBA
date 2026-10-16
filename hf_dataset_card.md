@@ -28,9 +28,10 @@ configs:
 # CSBA — Board reform and the abolition of China's supervisory board
 
 Replication data for the paper **"Board reform and the abolition of China's
-supervisory board"** by Xiangdong Liu (Jinan University), Jiahao Chen (Jinan
-University), Zhenyan Liu (University of Manchester) and Jinfeng Pan (Guangdong
-University of Finance).
+supervisory board"** by Xiangdong Liu (Jinan University, ORCID 0000-0002-9438-9285),
+Jiahao Chen (Jinan University, ORCID 0000-0003-4673-1311), Zhenyan Liu (University
+of Manchester, ORCID 0009-0007-5672-2060) and Jinfeng Pan (Guangdong University of
+Finance, ORCID 0009-0008-1950-7465).
 
 Code and documentation: https://github.com/ChenJiahaoJNU/CSBA
 
