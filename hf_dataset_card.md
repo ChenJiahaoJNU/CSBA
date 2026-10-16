@@ -25,10 +25,11 @@ configs:
     data_files: 06_sample_flags.csv
 ---
 
-# CSBA — Board reform and the abolition of China's supervisory board
+# CSBA — Board reform and the abolition of the supervisory board
 
-Replication data for the paper **"Board reform and the abolition of China's
-supervisory board"** by Xiangdong Liu (Jinan University, ORCID 0000-0002-9438-9285),
+Replication data for the paper **"Board reform and the abolition of the supervisory
+board: evidence from China's 2025 governance wave"** by Xiangdong Liu (Jinan
+University, ORCID 0000-0002-9438-9285),
 Jiahao Chen (Jinan University, ORCID 0000-0003-4673-1311), Zhenyan Liu (University
 of Manchester, ORCID 0009-0007-5672-2060) and Jinfeng Pan (Guangdong University of
 Finance, ORCID 0009-0008-1950-7465).
@@ -122,13 +123,15 @@ distribution and the approval-date analysis from this data alone.
 If you use this data, please cite the paper, and this dataset:
 
 ```
-Liu, X., Chen, J., Liu, Z., and Pan, J. Board reform and the abolition of China's
-supervisory board. China Journal of Accounting Research, forthcoming.
+Liu, X., Chen, J., Liu, Z., and Pan, J. Board reform and the abolition of the
+supervisory board: evidence from China's 2025 governance wave. China Journal of
+Accounting Research, forthcoming.
 ```
 
 ```
 @misc{csba2026,
-  title  = {CSBA: Board reform and the abolition of China's supervisory board},
+  title  = {Board reform and the abolition of the supervisory board: evidence from
+            China's 2025 governance wave},
   author = {Liu, Xiangdong and Chen, Jiahao and Liu, Zhenyan and Pan, Jinfeng},
   year   = {2026},
   url    = {https://huggingface.co/datasets/Changahou/CSBA}

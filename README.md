@@ -1,6 +1,7 @@
 # Replication package
 
-**Board reform and the abolition of China's supervisory board**
+**Board reform and the abolition of the supervisory board:
+evidence from China's 2025 governance wave**
 (short title `CSBA`)
 
 Xiangdong Liu (Jinan University, ORCID 0000-0002-9438-9285),
