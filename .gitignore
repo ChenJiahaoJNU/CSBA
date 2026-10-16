@@ -1,0 +1,10 @@
+# run-time outputs
+output/
+*.pyc
+__pycache__/
+
+# licensed vendor inputs -- never commit these
+vendor/
+
+# local path overrides
+.env
